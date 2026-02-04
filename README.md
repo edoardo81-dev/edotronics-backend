@@ -1,5 +1,3 @@
-## README — BACKEND (`edotronics-backend`)
-
 # Edotronics — Backend (Spring Boot)
 
 Backend della demo **Edotronics**, un progetto didattico tipo e-commerce/gestionale che mette in pratica:
